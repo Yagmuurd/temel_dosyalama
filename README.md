@@ -1,0 +1,1 @@
+# temel_dosyalama_-dev
