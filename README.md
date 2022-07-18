@@ -1,1 +1,1 @@
-# temel_dosyalama_-dev
+# temel_dosyalama_odev
